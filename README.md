@@ -27,6 +27,11 @@ tte-predictions/
 - Visualization tools for analysis
 - Integration examples
 
+## Data
+
+This project uses real-world data from the 2024 SCANIA dataset: https://researchdata.se/sv/catalogue/dataset/2024-34/2
+It can also be fitted with similar TTE/clustering data, like from the Google clusters dataset.
+
 ## Installation
 
 ```bash
