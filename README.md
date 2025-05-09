@@ -29,7 +29,8 @@ tte-predictions/
 
 ## Data
 
-This project uses real-world data from the 2024 SCANIA dataset: https://researchdata.se/sv/catalogue/dataset/2024-34/2
+This project uses real-world data from the 2024 SCANIA dataset via 
+Creative Commons Attribution 4.0 International (CC BY 4.0) license: https://researchdata.se/sv/catalogue/dataset/2024-34/2
 It can also be fitted with similar TTE/clustering data, like from the Google clusters dataset.
 
 ## Installation
@@ -97,6 +98,10 @@ Minimum system requirements:
 For LSTM models:
 - 8GB RAM recommended
 - GPU support optional but recommended
+
+## Acknowledgements
+
+Lindgren, T. et al. (2024) “SCANIA Component X Dataset: A Real-World Multivariate Time Series Dataset for Predictive Maintenance.” Scania CV AB. Tillgänglig via: https://doi.org/10.5878/jvb5-d390Opens in a new tab.
 
 ## Citation
 
