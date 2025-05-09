@@ -1,0 +1,2 @@
+lstm_ridge_mae_diff_low,lstm_ridge_pct_improvement_low,lstm_ridge_mae_diff_medium,lstm_ridge_pct_improvement_medium,lstm_ridge_mae_diff_high,lstm_ridge_pct_improvement_high,ridge_lstm_speedup,ridge_on_pareto
+-0.017689565860678075,11.435387200258948,-0.045736293054397734,37.75260936283572,0.03360006154873603,-135.46675295672435,7.072870641016926,True
