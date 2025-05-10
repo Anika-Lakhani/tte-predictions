@@ -108,7 +108,7 @@ Lindgren, T. et al. (2024) “SCANIA Component X Dataset: A Real-World Multivari
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{tte_prediction2025,
+@article{tte_predictions2025,
   title={Determining Scenarios for Low-Fidelity Time-to-Execution (TTE) Scheduling Prediction},
   author={Anika Lakhani},
   year={2025}
