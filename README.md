@@ -1,4 +1,4 @@
-# Task Time-to-End (TTE) Prediction for Efficient Scheduling
+# Task Time-to-Execution (TTE) Prediction for Efficient Scheduling
 
 This repository contains the implementation and analysis of various prediction methods for task scheduling in resource-constrained environments. The project compares machine learning approaches (LSTM) with simpler statistical methods (Linear Regression, Exponential Smoothing) to evaluate the trade-offs between prediction accuracy and computational efficiency. Note that code was mainly written alongside Perplexity, Claude, Cursor, and ChatGPT.
 
@@ -109,7 +109,7 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @article{tte_predictions2025,
-  title={Determining Scenarios for Low-Fidelity Time-to-Event (TTE) Scheduling Prediction},
+  title={Determining Scenarios for Low-Fidelity Time-to-Execution (TTE) Scheduling Prediction},
   author={Anika Lakhani},
   year={2025}
 }
