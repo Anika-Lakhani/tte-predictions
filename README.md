@@ -101,14 +101,14 @@ For LSTM models:
 
 ## Acknowledgements
 
-Lindgren, T. et al. (2024) “SCANIA Component X Dataset: A Real-World Multivariate Time Series Dataset for Predictive Maintenance.” Scania CV AB. Tillgänglig via: https://doi.org/10.5878/jvb5-d390Opens in a new tab.
+Lindgren, T. et al. (2024) “SCANIA Component X Dataset: A Real-World Multivariate Time Series Dataset for Predictive Maintenance.” Scania CV AB. Tillgänglig via: https://doi.org/10.5878/jvb5-d390.
 
 ## Citation
 
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{tte_predictions2025,
+@article{tte_prediction2025,
   title={Determining Scenarios for Low-Fidelity Time-to-Execution (TTE) Scheduling Prediction},
   author={Anika Lakhani},
   year={2025}
